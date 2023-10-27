@@ -99,8 +99,8 @@ h1{
             </ul>
 		
         </header>
-         <h1>I LOVE YOU ANITHA</h1>
-         <h1>I LOVE YOU ANITHA</h1>
+         <h1>No offers available</h1>
+        
 	 
 
     </section>    
